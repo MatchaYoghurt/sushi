@@ -5,7 +5,7 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `gatsby-theme-notes`,
+      resolve: `@synesthesia/gatsby-theme-garden`,
       options: {
         rootNote: "/readme",
         contentPath: `${__dirname}/..`,
