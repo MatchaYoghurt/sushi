@@ -5,7 +5,7 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `gatsby-digital-garden`,
+      resolve: `gatsby-theme-garden`,
       options: {
         rootNote: "/readme",
         contentPath: `${__dirname}/..`,
