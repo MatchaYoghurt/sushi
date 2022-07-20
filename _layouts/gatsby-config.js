@@ -1,11 +1,11 @@
 module.exports = {
   pathPrefix: `/sushi`,
   siteMetadata: {
-    title: `Foam`,
+    title: `Yes! It is Sushi.`,
   },
   plugins: [
     {
-      resolve: `gatsby-theme-garden`,
+      resolve: `gatsby-digital-garden`,
       options: {
         rootNote: "/readme",
         contentPath: `${__dirname}/..`,
