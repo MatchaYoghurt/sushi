@@ -1,11 +1,10 @@
-# test
-
 ---
 tags:
     - test
     - 抹優
 ---
 
+# test
 
 let's see if it is published or not.
 [[inbox]]
