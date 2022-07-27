@@ -1,6 +1,5 @@
 # Lake Tahoe
 
-
 [[inbox]]
 
 ## eat
