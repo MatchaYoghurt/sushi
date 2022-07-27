@@ -1,7 +1,6 @@
 ---
-tags:
-    - test
-    - 抹優
+title: "test"
+tags: ["test", "抹優"]
 ---
 
 # test
