@@ -1,5 +1,7 @@
 ---
 title: "test"
+author: my name
+date: today
 tags: ["test", "抹優"]
 ---
 
